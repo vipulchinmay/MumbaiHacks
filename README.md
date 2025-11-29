@@ -463,18 +463,9 @@ Update `app.json` with your specific settings:
 <br />
 <strong>🎨 Frontend Developer</strong>
 <br />
-<a href="https://github.com/Srujana1008">@Srujana1008</a>
+<a href="https://github.com/Srujana1008">@divyaBindu</a>
 <br />
 <em>Data & Image processing</em>
-</td>
-<td align="center" width="25%">
-<img src="https://via.placeholder.com/150x150/F7DC6F/FFFFFF?text=👤" width="100" height="100" style="border-radius: 50%;"/>
-<br />
-<strong>🔧 Backend Developer</strong>
-<br />
-<a href="https://github.com/vamshi0129">@vamshi0129</a>
-<br />
-<em>PyTessaract and rasp-pi Developer</em>
 </td>
 </tr>
 </table>
